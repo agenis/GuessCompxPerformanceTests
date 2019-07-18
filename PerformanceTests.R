@@ -7,7 +7,7 @@ Sys.info()
 
 # install & load
 if (!("GuessCompx" %in% data.frame(installed.packages())$Package)) {
-  install.packages("GuessComps")
+  install.packages("GuessCompx")
 }
 library(GuessCompx)
 
